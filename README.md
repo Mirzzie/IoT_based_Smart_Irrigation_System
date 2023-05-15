@@ -6,4 +6,4 @@ An Android app developed with Kotlin for controlling water pump in your home/lan
 - Firebase real-time database (Storing sensor and control data).
 - Node MCU ESP8266 (microcontroller).
 - Motor pump 12V DC
-- DTH11 and Moisture sensors.
+- DHT11 and Moisture sensors.
